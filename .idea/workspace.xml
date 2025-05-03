@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45c43df5-a4b1-464b-bfe3-34a88d1b6020" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Excersize 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/Python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Texts/AoC.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Texts/Constitution.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/OwnNoteBookAssign.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +26,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2wSAnotV0FyWFCO52izm7QPmx8e" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,12 +38,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Excersize 2.executor": "Run",
+    "Python.Excersize 3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/justi/Documents/GitHub/DIGIT-210"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\justi\Documents\GitHub\DIGIT-210" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
