@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45c43df5-a4b1-464b-bfe3-34a88d1b6020" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OwnNoteBookAssign.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +30,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2wSAnotV0FyWFCO52izm7QPmx8e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +41,8 @@
   "keyToString": {
     "Python.Excersize 2.executor": "Run",
     "Python.Excersize 3.executor": "Run",
+    "Python.OwnNoteBookAssign.executor": "Run",
+    "Python.webscraper.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
