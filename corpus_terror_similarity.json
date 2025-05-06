@@ -1,0 +1,438 @@
+{
+  "AoC": [
+    {
+      "token": "Article",
+      "similarity": 0.4142209589481354,
+      "count": 2
+    },
+    {
+      "token": "friendship",
+      "similarity": 0.4414669871330261,
+      "count": 2
+    },
+    {
+      "token": "defence",
+      "similarity": 0.4219750463962555,
+      "count": 2
+    },
+    {
+      "token": "welfare",
+      "similarity": 0.44936028122901917,
+      "count": 2
+    },
+    {
+      "token": "sovereignty",
+      "similarity": 0.4530111849308014,
+      "count": 1
+    },
+    {
+      "token": "IV",
+      "similarity": 0.4065208435058594,
+      "count": 1
+    },
+    {
+      "token": "imposition",
+      "similarity": 0.5640996098518372,
+      "count": 1
+    },
+    {
+      "token": "restriction",
+      "similarity": 0.4117250442504883,
+      "count": 1
+    },
+    {
+      "token": "felony",
+      "similarity": 0.45953133702278137,
+      "count": 2
+    },
+    {
+      "token": "misdemeanor",
+      "similarity": 0.4399106502532959,
+      "count": 1
+    },
+    {
+      "token": "state",
+      "similarity": 0.5149456858634949,
+      "count": 7
+    },
+    {
+      "token": "offence",
+      "similarity": 0.48809754848480225,
+      "count": 1
+    },
+    {
+      "token": "person",
+      "similarity": 0.4518984854221344,
+      "count": 1
+    },
+    {
+      "token": "salary",
+      "similarity": 0.4706328213214874,
+      "count": 1
+    },
+    {
+      "token": "kind",
+      "similarity": 0.4386715888977051,
+      "count": 1
+    },
+    {
+      "token": "attendance",
+      "similarity": 0.4166320860385895,
+      "count": 1
+    },
+    {
+      "token": "peace",
+      "similarity": 0.47202539443969727,
+      "count": 4
+    },
+    {
+      "token": "State",
+      "similarity": 0.43925920128822327,
+      "count": 1
+    },
+    {
+      "token": "agreement",
+      "similarity": 0.4170844256877899,
+      "count": 1
+    },
+    {
+      "token": "treaty",
+      "similarity": 0.46382638812065125,
+      "count": 1
+    },
+    {
+      "token": "office",
+      "similarity": 0.4012545645236969,
+      "count": 1
+    },
+    {
+      "token": "king",
+      "similarity": 0.49210789799690247,
+      "count": 2
+    },
+    {
+      "token": "nobility",
+      "similarity": 0.5075857639312744,
+      "count": 1
+    },
+    {
+      "token": "confederation",
+      "similarity": 0.4305391311645508,
+      "count": 4
+    },
+    {
+      "token": "trade",
+      "similarity": 0.4426652491092682,
+      "count": 1
+    },
+    {
+      "token": "body",
+      "similarity": 0.4303815960884094,
+      "count": 1
+    },
+    {
+      "token": "militia",
+      "similarity": 0.49225470423698425,
+      "count": 1
+    },
+    {
+      "token": "ammunition",
+      "similarity": 0.49910640716552734,
+      "count": 1
+    },
+    {
+      "token": "equipage",
+      "similarity": 0.4151994585990906,
+      "count": 1
+    },
+    {
+      "token": "land",
+      "similarity": 0.42557892203330994,
+      "count": 1
+    },
+    {
+      "token": "courts",
+      "similarity": 0.4782521724700928,
+      "count": 1
+    },
+    {
+      "token": "appeal",
+      "similarity": 0.4072684049606323,
+      "count": 1
+    },
+    {
+      "token": "authority",
+      "similarity": 0.4394325911998749,
+      "count": 2
+    },
+    {
+      "token": "congress",
+      "similarity": 0.41166970133781433,
+      "count": 4
+    },
+    {
+      "token": "controversy",
+      "similarity": 0.4367722272872925,
+      "count": 1
+    },
+    {
+      "token": "court",
+      "similarity": 0.42672964930534363,
+      "count": 2
+    },
+    {
+      "token": "sentence",
+      "similarity": 0.4529244303703308,
+      "count": 1
+    },
+    {
+      "token": "affection",
+      "similarity": 0.43310222029685974,
+      "count": 1
+    },
+    {
+      "token": "jurisdiction",
+      "similarity": 0.4127272665500641,
+      "count": 1
+    },
+    {
+      "token": "postage",
+      "similarity": 0.41920316219329834,
+      "count": 1
+    },
+    {
+      "token": "committee",
+      "similarity": 0.49679985642433167,
+      "count": 3
+    },
+    {
+      "token": "manner",
+      "similarity": 0.5138106942176819,
+      "count": 1
+    },
+    {
+      "token": "money",
+      "similarity": 0.545918881893158,
+      "count": 2
+    },
+    {
+      "token": "credit",
+      "similarity": 0.40366676449775696,
+      "count": 1
+    },
+    {
+      "token": "period",
+      "similarity": 0.41166967153549194,
+      "count": 1
+    },
+    {
+      "token": "Journal",
+      "similarity": 0.42332619428634644,
+      "count": 1
+    },
+    {
+      "token": "XI",
+      "similarity": 0.421893447637558,
+      "count": 1
+    },
+    {
+      "token": "union",
+      "similarity": 0.4918842315673828,
+      "count": 3
+    },
+    {
+      "token": "colony",
+      "similarity": 0.44570648670196533,
+      "count": 1
+    },
+    {
+      "token": "XII",
+      "similarity": 0.4262377619743347,
+      "count": 1
+    }
+  ],
+  "Constitution": [
+    {
+      "token": "Section",
+      "similarity": 0.43276447057724,
+      "count": 10
+    },
+    {
+      "token": "Congress",
+      "similarity": 0.4523449242115021,
+      "count": 1
+    },
+    {
+      "token": "Representative",
+      "similarity": 0.4193631410598755,
+      "count": 1
+    },
+    {
+      "token": "Senate",
+      "similarity": 0.47092393040657043,
+      "count": 1
+    },
+    {
+      "token": "Person",
+      "similarity": 0.4276658892631531,
+      "count": 4
+    },
+    {
+      "token": "disqualification",
+      "similarity": 0.44266337156295776,
+      "count": 1
+    },
+    {
+      "token": "honor",
+      "similarity": 0.47667261958122253,
+      "count": 1
+    },
+    {
+      "token": "day",
+      "similarity": 0.4074782729148865,
+      "count": 1
+    },
+    {
+      "token": "Process",
+      "similarity": 0.4981265664100647,
+      "count": 1
+    },
+    {
+      "token": "Order",
+      "similarity": 0.49288690090179443,
+      "count": 1
+    },
+    {
+      "token": "credit",
+      "similarity": 0.4037584960460663,
+      "count": 1
+    },
+    {
+      "token": "Coin",
+      "similarity": 0.44635146856307983,
+      "count": 2
+    },
+    {
+      "token": "Capitation",
+      "similarity": 0.4733295440673828,
+      "count": 1
+    },
+    {
+      "token": "enumeration",
+      "similarity": 0.4548738896846771,
+      "count": 1
+    },
+    {
+      "token": "time",
+      "similarity": 0.4690976142883301,
+      "count": 1
+    },
+    {
+      "token": "State",
+      "similarity": 0.45503944158554077,
+      "count": 5
+    },
+    {
+      "token": "Powers",
+      "similarity": 0.41078999638557434,
+      "count": 1
+    },
+    {
+      "token": "Alliance",
+      "similarity": 0.4133133292198181,
+      "count": 1
+    },
+    {
+      "token": "Confederation",
+      "similarity": 0.4187011420726776,
+      "count": 1
+    },
+    {
+      "token": "Money",
+      "similarity": 0.41498199105262756,
+      "count": 1
+    },
+    {
+      "token": "Law",
+      "similarity": 0.40904903411865234,
+      "count": 2
+    },
+    {
+      "token": "delay",
+      "similarity": 0.40834560990333557,
+      "count": 1
+    },
+    {
+      "token": "Elector",
+      "similarity": 0.416447252035141,
+      "count": 1
+    },
+    {
+      "token": "quorum",
+      "similarity": 0.4647592306137085,
+      "count": 1
+    },
+    {
+      "token": "President",
+      "similarity": 0.4134233593940735,
+      "count": 1
+    },
+    {
+      "token": "Office",
+      "similarity": 0.4606359601020813,
+      "count": 1
+    },
+    {
+      "token": "Session",
+      "similarity": 0.4079413414001465,
+      "count": 1
+    },
+    {
+      "token": "Constitution",
+      "similarity": 0.49814313650131226,
+      "count": 4
+    },
+    {
+      "token": "Comfort",
+      "similarity": 0.4716632068157196,
+      "count": 1
+    },
+    {
+      "token": "Effect",
+      "similarity": 0.4671800434589386,
+      "count": 1
+    },
+    {
+      "token": "Felony",
+      "similarity": 0.40224751830101013,
+      "count": 1
+    },
+    {
+      "token": "Invasion",
+      "similarity": 0.40618929266929626,
+      "count": 1
+    },
+    {
+      "token": "Article",
+      "similarity": 0.40315574407577515,
+      "count": 1
+    },
+    {
+      "token": "Thing",
+      "similarity": 0.44343870878219604,
+      "count": 1
+    },
+    {
+      "token": "Affirmation",
+      "similarity": 0.4021557569503784,
+      "count": 1
+    }
+  ],
+  "verbFreq": [
+    {
+      "token": "Verb",
+      "similarity": 0.44697219133377075,
+      "count": 1
+    }
+  ]
+}

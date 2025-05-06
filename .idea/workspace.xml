@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c43df5-a4b1-464b-bfe3-34a88d1b6020" name="Changes" comment="" />
+    <list default="true" id="45c43df5-a4b1-464b-bfe3-34a88d1b6020" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,9 +41,11 @@
   "keyToString": {
     "Python.Excersize 2.executor": "Run",
     "Python.Excersize 3.executor": "Run",
+    "Python.MakeTSV.executor": "Run",
     "Python.OwnNoteBookAssign.executor": "Run",
     "Python.SmokeTest.executor": "Run",
     "Python.Spacy1.executor": "Run",
+    "Python.VectorSimilarity.executor": "Run",
     "Python.webscraper.executor": "Run",
     "Python.wordnetOnProject.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",

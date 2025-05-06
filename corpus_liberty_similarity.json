@@ -1,0 +1,317 @@
+{
+  "AoC": [
+    {
+      "token": "friendship",
+      "similarity": 0.5064975619316101,
+      "count": 1
+    },
+    {
+      "token": "offence",
+      "similarity": 0.4000999927520752,
+      "count": 1
+    },
+    {
+      "token": "state",
+      "similarity": 0.4360603392124176,
+      "count": 2
+    },
+    {
+      "token": "kind",
+      "similarity": 0.4082026779651642,
+      "count": 1
+    },
+    {
+      "token": "attendance",
+      "similarity": 0.4186590015888214,
+      "count": 1
+    },
+    {
+      "token": "State",
+      "similarity": 0.414211630821228,
+      "count": 1
+    },
+    {
+      "token": "embassy",
+      "similarity": 0.43494710326194763,
+      "count": 1
+    },
+    {
+      "token": "treaty",
+      "similarity": 0.4067167639732361,
+      "count": 1
+    },
+    {
+      "token": "nobility",
+      "similarity": 0.543514609336853,
+      "count": 1
+    },
+    {
+      "token": "militia",
+      "similarity": 0.43125447630882263,
+      "count": 1
+    },
+    {
+      "token": "equipage",
+      "similarity": 0.4429696798324585,
+      "count": 1
+    },
+    {
+      "token": "VII",
+      "similarity": 0.4186101257801056,
+      "count": 1
+    },
+    {
+      "token": "appointment",
+      "similarity": 0.513832151889801,
+      "count": 1
+    },
+    {
+      "token": "VIII",
+      "similarity": 0.4202333390712738,
+      "count": 1
+    },
+    {
+      "token": "land",
+      "similarity": 0.4651331901550293,
+      "count": 1
+    },
+    {
+      "token": "mode",
+      "similarity": 0.40570715069770813,
+      "count": 1
+    },
+    {
+      "token": "appeal",
+      "similarity": 0.415408194065094,
+      "count": 1
+    },
+    {
+      "token": "congress",
+      "similarity": 0.4166157841682434,
+      "count": 1
+    },
+    {
+      "token": "authority",
+      "similarity": 0.4121386408805847,
+      "count": 1
+    },
+    {
+      "token": "court",
+      "similarity": 0.43204331398010254,
+      "count": 1
+    },
+    {
+      "token": "reward",
+      "similarity": 0.48663708567619324,
+      "count": 1
+    },
+    {
+      "token": "party",
+      "similarity": 0.40127089619636536,
+      "count": 1
+    },
+    {
+      "token": "committee",
+      "similarity": 0.5441582202911377,
+      "count": 3
+    },
+    {
+      "token": "equip",
+      "similarity": 0.4029638469219208,
+      "count": 1
+    },
+    {
+      "token": "navy",
+      "similarity": 0.403247207403183,
+      "count": 1
+    },
+    {
+      "token": "assent",
+      "similarity": 0.42812609672546387,
+      "count": 1
+    },
+    {
+      "token": "question",
+      "similarity": 0.4156067371368408,
+      "count": 1
+    },
+    {
+      "token": "place",
+      "similarity": 0.41309598088264465,
+      "count": 1
+    },
+    {
+      "token": "confederation",
+      "similarity": 0.43588492274284363,
+      "count": 3
+    },
+    {
+      "token": "union",
+      "similarity": 0.4217868745326996,
+      "count": 1
+    }
+  ],
+  "Constitution": [
+    {
+      "token": "Posterity",
+      "similarity": 0.4612148106098175,
+      "count": 1
+    },
+    {
+      "token": "Legislature",
+      "similarity": 0.4583142399787903,
+      "count": 2
+    },
+    {
+      "token": "Service",
+      "similarity": 0.42001765966415405,
+      "count": 1
+    },
+    {
+      "token": "Representative",
+      "similarity": 0.4605242908000946,
+      "count": 2
+    },
+    {
+      "token": "Impeachment",
+      "similarity": 0.47000399231910706,
+      "count": 3
+    },
+    {
+      "token": "Vote",
+      "similarity": 0.46308645606040955,
+      "count": 4
+    },
+    {
+      "token": "President",
+      "similarity": 0.5330803394317627,
+      "count": 13
+    },
+    {
+      "token": "Judgment",
+      "similarity": 0.4163859486579895,
+      "count": 1
+    },
+    {
+      "token": "removal",
+      "similarity": 0.4596794843673706,
+      "count": 1
+    },
+    {
+      "token": "Punishment",
+      "similarity": 0.4412105083465576,
+      "count": 1
+    },
+    {
+      "token": "House",
+      "similarity": 0.45697808265686035,
+      "count": 2
+    },
+    {
+      "token": "Place",
+      "similarity": 0.464947909116745,
+      "count": 1
+    },
+    {
+      "token": "Office",
+      "similarity": 0.4025999903678894,
+      "count": 1
+    },
+    {
+      "token": "Return",
+      "similarity": 0.40865588188171387,
+      "count": 1
+    },
+    {
+      "token": "Section",
+      "similarity": 0.41176027059555054,
+      "count": 2
+    },
+    {
+      "token": "Court",
+      "similarity": 0.4488654136657715,
+      "count": 2
+    },
+    {
+      "token": "Water",
+      "similarity": 0.4434826076030731,
+      "count": 1
+    },
+    {
+      "token": "Militia",
+      "similarity": 0.420883446931839,
+      "count": 1
+    },
+    {
+      "token": "herein",
+      "similarity": 0.4418586790561676,
+      "count": 1
+    },
+    {
+      "token": "time",
+      "similarity": 0.40673601627349854,
+      "count": 1
+    },
+    {
+      "token": "Confederation",
+      "similarity": 0.44116440415382385,
+      "count": 2
+    },
+    {
+      "token": "Nobility",
+      "similarity": 0.44640594720840454,
+      "count": 1
+    },
+    {
+      "token": "Session",
+      "similarity": 0.44715678691864014,
+      "count": 1
+    },
+    {
+      "token": "Adjournment",
+      "similarity": 0.4232141971588135,
+      "count": 1
+    },
+    {
+      "token": "Party",
+      "similarity": 0.47970184683799744,
+      "count": 1
+    },
+    {
+      "token": "Comfort",
+      "similarity": 0.4732607305049896,
+      "count": 1
+    },
+    {
+      "token": "Treason",
+      "similarity": 0.407911479473114,
+      "count": 1
+    },
+    {
+      "token": "Effect",
+      "similarity": 0.5426744818687439,
+      "count": 1
+    },
+    {
+      "token": "Government",
+      "similarity": 0.437184602022171,
+      "count": 1
+    },
+    {
+      "token": "Invasion",
+      "similarity": 0.4033372104167938,
+      "count": 1
+    },
+    {
+      "token": "Constitution",
+      "similarity": 0.4076973795890808,
+      "count": 1
+    },
+    {
+      "token": "Thing",
+      "similarity": 0.4296817183494568,
+      "count": 1
+    }
+  ],
+  "verbFreq": []
+}

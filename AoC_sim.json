@@ -1,0 +1,152 @@
+[
+  {
+    "token": "friendship",
+    "similarity": 0.5064975619316101,
+    "count": 1
+  },
+  {
+    "token": "offence",
+    "similarity": 0.4000999927520752,
+    "count": 1
+  },
+  {
+    "token": "state",
+    "similarity": 0.4360603392124176,
+    "count": 2
+  },
+  {
+    "token": "kind",
+    "similarity": 0.4082026779651642,
+    "count": 1
+  },
+  {
+    "token": "attendance",
+    "similarity": 0.4186590015888214,
+    "count": 1
+  },
+  {
+    "token": "State",
+    "similarity": 0.414211630821228,
+    "count": 1
+  },
+  {
+    "token": "embassy",
+    "similarity": 0.43494710326194763,
+    "count": 1
+  },
+  {
+    "token": "treaty",
+    "similarity": 0.4067167639732361,
+    "count": 1
+  },
+  {
+    "token": "nobility",
+    "similarity": 0.543514609336853,
+    "count": 1
+  },
+  {
+    "token": "militia",
+    "similarity": 0.43125447630882263,
+    "count": 1
+  },
+  {
+    "token": "equipage",
+    "similarity": 0.4429696798324585,
+    "count": 1
+  },
+  {
+    "token": "VII",
+    "similarity": 0.4186101257801056,
+    "count": 1
+  },
+  {
+    "token": "appointment",
+    "similarity": 0.513832151889801,
+    "count": 1
+  },
+  {
+    "token": "VIII",
+    "similarity": 0.4202333390712738,
+    "count": 1
+  },
+  {
+    "token": "land",
+    "similarity": 0.4651331901550293,
+    "count": 1
+  },
+  {
+    "token": "mode",
+    "similarity": 0.40570715069770813,
+    "count": 1
+  },
+  {
+    "token": "appeal",
+    "similarity": 0.415408194065094,
+    "count": 1
+  },
+  {
+    "token": "congress",
+    "similarity": 0.4166157841682434,
+    "count": 1
+  },
+  {
+    "token": "authority",
+    "similarity": 0.4121386408805847,
+    "count": 1
+  },
+  {
+    "token": "court",
+    "similarity": 0.43204331398010254,
+    "count": 1
+  },
+  {
+    "token": "reward",
+    "similarity": 0.48663708567619324,
+    "count": 1
+  },
+  {
+    "token": "party",
+    "similarity": 0.40127089619636536,
+    "count": 1
+  },
+  {
+    "token": "committee",
+    "similarity": 0.5441582202911377,
+    "count": 3
+  },
+  {
+    "token": "equip",
+    "similarity": 0.4029638469219208,
+    "count": 1
+  },
+  {
+    "token": "navy",
+    "similarity": 0.403247207403183,
+    "count": 1
+  },
+  {
+    "token": "assent",
+    "similarity": 0.42812609672546387,
+    "count": 1
+  },
+  {
+    "token": "question",
+    "similarity": 0.4156067371368408,
+    "count": 1
+  },
+  {
+    "token": "place",
+    "similarity": 0.41309598088264465,
+    "count": 1
+  },
+  {
+    "token": "confederation",
+    "similarity": 0.43588492274284363,
+    "count": 3
+  },
+  {
+    "token": "union",
+    "similarity": 0.4217868745326996,
+    "count": 1
+  }
+]
