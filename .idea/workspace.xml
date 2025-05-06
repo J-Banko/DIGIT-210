@@ -43,6 +43,7 @@
     "Python.Excersize 3.executor": "Run",
     "Python.OwnNoteBookAssign.executor": "Run",
     "Python.SmokeTest.executor": "Run",
+    "Python.Spacy1.executor": "Run",
     "Python.webscraper.executor": "Run",
     "Python.wordnetOnProject.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",

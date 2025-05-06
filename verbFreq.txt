@@ -1,0 +1,11 @@
+Verb	Frequency	SynsetCount
+assemble	32	3
+have	31	19
+make	25	49
+appoint	22	3
+provide	21	7
+enter	16	9
+determine	13	8
+say	12	11
+raise	12	27
+agree	11	7
