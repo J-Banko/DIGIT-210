@@ -1,0 +1,34 @@
+{
+  "state": {
+    "occurrences": 106,
+    "senses": 11,
+    "synset_names": [
+      "state.n.01",
+      "state.n.02",
+      "state.n.03",
+      "state.n.04",
+      "state_of_matter.n.01",
+      "state.n.06",
+      "country.n.02",
+      "department_of_state.n.01",
+      "state.v.01",
+      "submit.v.02",
+      "express.v.04"
+    ]
+  },
+  "congress": {
+    "occurrences": 90,
+    "senses": 4,
+    "synset_names": [
+      "congress.n.01",
+      "congress.n.02",
+      "congress.n.03",
+      "sexual_intercourse.n.01"
+    ]
+  },
+  "shall": {
+    "occurrences": 299,
+    "senses": 0,
+    "synset_names": []
+  }
+}
